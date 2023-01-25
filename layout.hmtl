@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 
 <head>
+<link rel="stylesheet"href="layout.css">
 
 </head>
 <body>
@@ -10,7 +11,8 @@
         <button>Load more</button>
     
     </div>
-   
+      
+
 
 
 
