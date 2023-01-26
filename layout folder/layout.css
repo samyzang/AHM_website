@@ -14,11 +14,12 @@ height: 30px;
 }
 
 .tabs {
-    height: 30px;  
+    height: 30px; 
+    width: 30px; 
 }
 .sebyala-image {
-    height: 400px;
-    width: 600px;
+    height: 100px;
+    width: 100px;
 }
 
 
