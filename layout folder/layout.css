@@ -28,7 +28,7 @@ height: 30px;
     height: 30px;
 }
 
-.homepage-btn, .homepage-btn:hover {
+.homepage-btn {
     border: 1px solid #ef1c26;
     font-size: 15px;
     padding: 10px 22px;
@@ -43,8 +43,11 @@ height: 30px;
     cursor: pointer;
     white-space: nowrap;
     color: #ef1c26;
+    background-color: white;
 }
-
+.homepage-btn:hover {
+    background-color: #ef1c26;
+}
 
 
 
