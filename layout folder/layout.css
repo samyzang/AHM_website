@@ -17,8 +17,8 @@ height: 30px;
    height: 50px; 
 }
 .sebyala-image {
+    width: 300px;
     
-    width:100%;
 }
 .tab-flex {
     display: flex;
