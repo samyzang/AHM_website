@@ -28,7 +28,21 @@ height: 30px;
     height: 30px;
 }
 
-
+.homepage-btn, .homepage-btn:hover {
+    border: 1px solid #ef1c26;
+    font-size: 15px;
+    padding: 10px 22px;
+    margin-top: 20px;
+    font-weight: 400;
+    letter-spacing: .06em;
+    font-family: proxima-nova,sans-serif;
+    font-style: normal;
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+    white-space: nowrap;
+}
 
 
 
